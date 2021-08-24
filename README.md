@@ -1,5 +1,4 @@
-# COMP-5620
-User Interface Design and Evaluation
+# COMP-5620 - User Interface Design and Evaluation
 
 This repository contains files with projects from UI Design and Evaluation.
 
